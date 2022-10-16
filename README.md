@@ -1,6 +1,6 @@
 # Password-Generator-Project
 
-As I work through 100 Days of code, I will upload/push my projects to my Github account.
+As I work through 100 Days of Python from Udemy, I will upload/push my projects to my Github account.
 
 Bare with my progress.
 
